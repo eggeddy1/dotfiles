@@ -1,0 +1,10 @@
+[user]
+  name = "eggeddy1"
+  email = "eggeddy1@proton.me"
+  signingkey = ~/.ssh/id_rsa.pub
+[gpg]
+  format = ssh
+[commit]
+  gpgsign = true
+[tag]
+  gpgsign = true
